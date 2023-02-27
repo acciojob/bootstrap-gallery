@@ -8,20 +8,20 @@
 
 **Resources:**
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image1.jpg'>Image1</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image1.jpg' target="_blank">Image1</a>
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image2.jpg'>Image2</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image2.jpg' target="_blank">Image2</a>
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image3.jpg'>Image3</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image3.jpg' target="_blank">Image3</a>
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image4.jpg'>Image4</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image4.jpg' target="_blank">Image4</a>
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image5.jpg'>Image5</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image5.jpg' target="_blank">Image5</a>
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image6.jpg'>Image6</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image6.jpg' target="_blank">Image6</a>
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image7.jpg'>Image7</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image7.jpg' target="_blank">Image7</a>
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image8.jpg'>Image8</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image8.jpg' target="_blank">Image8</a>
 
-- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image9.jpg'>Image9</a>
+- <a href='https://storage.googleapis.com/acciojob-open-file-collections/image9.jpg' target="_blank">Image9</a>
